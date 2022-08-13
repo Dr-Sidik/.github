@@ -9,3 +9,9 @@ Bismillah, ikhtiar dalam menebar manfaat.
 * Linear Algebra
 * Numerical Methods
 * Engineering and Civilization
+
+## 2022/2023 - 1st term
+
+* Vector and Matrix Theory
+* Linear Algebra
+* Power System Analysis
