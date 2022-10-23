@@ -14,4 +14,4 @@ Bismillah, ikhtiar dalam menebar manfaat.
 
 * Vector and Matrix Theory
 * Linear Algebra
-* Power System Analysis
+
