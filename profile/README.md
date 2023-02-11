@@ -17,6 +17,12 @@ I am a researcher and an academic staff at Dept. of Electrical Engineering and I
 * Vector and Matrix Theory
 * Linear Algebra
 
+## 2022/2023 -2nd term
+
+* Linear Algebra
+* Engineering and Civilization
+* AC Circuit Analysis
+
 # Academic Services
 
 As reviewer:
