@@ -8,12 +8,7 @@ I am a researcher and an academic staff at Dept. of Electrical Engineering and I
 
 ## [Courses Taught](./courses-taught.md)
 
-## Academic Services
-
-As reviewer:
-
-* [JNTETI](https://www.journal.ugm.ac.id/v3/JNTETI)
-* [ICITEE](https://icitee.ugm.ac.id/) - 2022
+## [Academic Services](./academic-services.md)
 
 ## [Former Students](./former-students.md)
 
