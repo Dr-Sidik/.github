@@ -25,6 +25,7 @@
 7. Auxiliary Resonant Commutated Pole (ARCP) to increase a soft-switching capability of a dual-active bridge converter
 8. Dual-phase-shift control strategy of a dual-active bridge converter
 9. Triple-phase shift modulation of a dual-active bridge converter
+10. Artificial intelligence based design for circuit parameters of power converters
 
 ### Master
 
