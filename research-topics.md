@@ -32,3 +32,8 @@
 ### Master
 
 1.
+
+## 3. Contact
+
+If you are interested, feel free to ask. You can send me an email (yohanfajarsidik@ugm.ac.id) and arrange a meeting.
+
