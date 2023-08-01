@@ -16,8 +16,8 @@
 
 ### Undergraduate
 
-1. Hardware-in-the-loop simulation of a MTPA (maximum torque per ampere) control of a PMSM 
-2. Hardware-in-the-loop simulation of a MTPF (maximum torque per flux) control of a PMSM
+1. Hardware-in-the-loop simulation of a MTPA (maximum torque per ampere) control for a permanent magnet synchronous motor (PMSM) [Reference: [1](https://repository.tudelft.nl/islandora/object/uuid:826849d2-32e1-400a-a7a3-de1b9201d97a?collection=education)]
+2. Hardware-in-the-loop simulation of a MTPF (maximum torque per flux) control of a permanent magnet synchronous motor (PMSM)
 3. Start-up Strategy for a dual-active bridge converter
 4. Control parameters for Modular DAB converter
 5. Stability analysis of a dual-active bridge converter
@@ -26,6 +26,8 @@
 8. Dual-phase-shift control strategy of a dual-active bridge converter
 9. Triple-phase shift modulation of a dual-active bridge converter
 10. Artificial intelligence based design for circuit parameters of power converters
+11. Designing a building block for a dual-active bridge converter (DAB)
+12. Designing a building block for a modular multilevel converter (MMC)
 
 ### Master
 
