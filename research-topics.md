@@ -1,4 +1,6 @@
-## Research Topics under My Supervision (Dr.-Ing. Yohan Fajar Sidik)
+# Research Topics under My Supervision (Dr.-Ing. Yohan Fajar Sidik)
+
+## 1. Previous Topics
 
 ### Undergraduate
 
@@ -6,9 +8,11 @@
 2. Sensorless field oriented control (FOC) of a PMSM - Raihan Ramadhan (TE 2019)
 3. Field-weakening control of permanent magnet synchronous motor (PMSM) - Rifqi Maulana (TE 2019)
 
-## Available Topics
+### Master
 
 1.
+
+## 2. Available Topics (Vacancies)
 
 ### Undergraduate
 
