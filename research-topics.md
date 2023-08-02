@@ -17,21 +17,20 @@
 ### Undergraduate
 
 1. Hardware-in-the-loop simulation of a MTPA (maximum torque per ampere) control for a permanent magnet synchronous motor (PMSM) [Reference: [1](https://repository.tudelft.nl/islandora/object/uuid:826849d2-32e1-400a-a7a3-de1b9201d97a?collection=education)]
-2. Hardware-in-the-loop simulation of a MTPF (maximum torque per flux) control of a permanent magnet synchronous motor (PMSM)
-3. Start-up Strategy for a dual-active bridge converter
-4. Control parameters for Modular DAB converter
-5. Stability analysis of a dual-active bridge converter
-6. Zero Voltage Switching (ZVS) analysis of a dual active bridge converter
-7. Auxiliary Resonant Commutated Pole (ARCP) to increase a soft-switching capability of a dual-active bridge converter
-8. Dual-phase-shift control strategy of a dual-active bridge converter
-9. Triple-phase shift modulation of a dual-active bridge converter
-10. Artificial intelligence based design for circuit parameters of power converters
-11. Designing a building block for a dual-active bridge converter (DAB)
-12. Designing a building block for a modular multilevel converter (MMC)
+2. Hardware-in-the-loop simulation of a MTPF (maximum torque per flux) control of a permanent magnet synchronous motor (PMSM) [Reference: [1](https://ieeexplore.ieee.org/abstract/document/7841413)]
+3. Start-up Strategy for a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/abstract/document/10121643)]
+4. Control parameters for Modular DAB converter [References: [1](https://ieeexplore.ieee.org/abstract/document/7403968), [2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6626418), [3](https://publications.rwth-aachen.de/record/834674/files/834674.pdf)]
+6. Zero Voltage Switching (ZVS) analysis of a dual active bridge converter [Reference: [1](https://ieeexplore.ieee.org/abstract/document/9146771)]
+7. Auxiliary Resonant Commutated Pole (ARCP) to increase a soft-switching capability of a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6910857)]
+8. Dual-phase-shift control strategy of a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/document/5944548)]
+9. Triple-phase shift modulation of a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/abstract/document/7778233)]
+10. Artificial intelligence based design for circuit parameters of power converters [Reference: [1](https://ieeexplore.ieee.org/document/9457042)]
+11. Designing a building block for a dual-active bridge converter (DAB) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/full-bridge-inverter-development-kit/)]
+12. Designing a building block for a modular multilevel converter (MMC) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/half-bridge-mppt-development-kit/)]
 
 ### Master
 
-1.
+1. Stability analysis of a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/abstract/document/9468398)]
 
 ## 3. Contact
 
