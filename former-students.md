@@ -1,6 +1,6 @@
 Below are my students:
 
-## Undergraduate
+## 1. Undergraduate
 
 ### Former Students
 
@@ -16,7 +16,7 @@ Below are my students:
 2. Hafizh Aradhana Harimurti
 3. Muhamad Haikal Widianto
 
-## Master
+## 2. Master
 
 ### Ongoing Students
 
