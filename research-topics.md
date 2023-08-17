@@ -25,7 +25,7 @@
 8. Dual-phase-shift control strategy of a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/document/5944548)]
 9. Triple-phase shift modulation of a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/abstract/document/7778233)]
 10. Artificial intelligence based design for circuit parameters of power converters [Reference: [1](https://ieeexplore.ieee.org/document/9457042)]
-11. Designing a building block for a dual-active bridge converter (DAB) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/full-bridge-inverter-development-kit/)]
+11. Designing a building block for a dual-active bridge converter (DAB) [References: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/full-bridge-inverter-development-kit/), [2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296920)]
 12. Designing a building block for a modular multilevel converter (MMC) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/half-bridge-mppt-development-kit/)]
 
 ### Master
