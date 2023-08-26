@@ -27,6 +27,7 @@
 10. Artificial intelligence based design for circuit parameters of power converters [References: [1](https://ieeexplore.ieee.org/document/9457042), [2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296920)]
 11. Designing a building block for a dual-active bridge converter (DAB) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/full-bridge-inverter-development-kit/)]
 12. Designing a building block for a modular multilevel converter (MMC) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/half-bridge-mppt-development-kit/)]
+13. Inductor design for a buck converter
 
 ### Master
 
