@@ -28,6 +28,7 @@
 11. Designing a building block for a dual-active bridge converter (DAB) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/full-bridge-inverter-development-kit/)]
 12. Designing a building block for a modular multilevel converter (MMC) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/half-bridge-mppt-development-kit/)]
 13. Inductor design for a buck converter
+14. Magnetics modeling and material recommendation [Reference: [1](https://ieeexplore.ieee.org/abstract/document/10232911)]
 
 ### Master
 
