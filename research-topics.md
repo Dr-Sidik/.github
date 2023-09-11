@@ -29,6 +29,7 @@
 12. Designing a building block for a modular multilevel converter (MMC) [Reference: [1](https://www.taraztechnologies.com/product/power-electronics-modules/power/half-bridge-mppt-development-kit/)]
 13. Inductor design for a buck converter
 14. Magnetics modeling and material recommendation [Reference: [1](https://ieeexplore.ieee.org/abstract/document/10232911)]
+15. FPGA based control of a single-phase dual active bridge converter [References: [1](https://ieeexplore.ieee.org/abstract/document/6020548), [2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7048698)]
 
 ### Master
 
