@@ -1,23 +1,23 @@
-## 2021/2022 - 2nd term
+# Bachelor Degree Program
 
-* Linear Algebra
-* Numerical Methods
-* Engineering and Civilization
+| Subjects  | 2021/2022-2nd term  | 2022/2023-1st term  | 2022/2023-2nd term  | 2023/2024-1st term  | 2023/2024-2nd term | 2024/2025-1st term |
+|---|---|---|---|---|---|---|
+| AC circuit analysis  |   |   |  x |   |
+| Engineering and civilization  |  x |   | x  |   | x |  |
+| Linear algebra  |  x | x  | x  | x  | x | |
+| Vector and matrix theory  |   |  x |   |  x |  | x |
+| Numerical methods  | x  |   |   |   | | |
+| Power electronics  |   |   |   |  x | | x |
+| Selected Topics of Electrical Engineering  |   |   |   |  x | | |
 
-## 2022/2023 - 1st term
+# Master Degree Program
 
-* Vector and Matrix Theory
-* Linear Algebra
+| Subjects  |  2023/2024-2nd term | 2024/2025-1st term |
+|---|---|---|
+| Interconnection technology for renewable energy | x |    |
+| Modeling | | x |
+| Numerical methods | x | |
+| Power electronics for transmission and distribution | | x |
 
-## 2022/2023 - 2nd term
 
-* Linear Algebra
-* Engineering and Civilization
-* AC Circuit Analysis
 
-## 2023/2024 - 1st term  
-
-* Linear Algebra
-* Vector and Matrix Theory
-* Power Electronics
-* Selected Topics of Electrical Engineering
