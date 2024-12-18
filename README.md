@@ -2,6 +2,6 @@
 
 ## [Academic Services](./academic-services.md)
 
-## [Students]([./former-students.md](./former-students.md))
+## [Students](./former-students.md)
 
 ## [Available Research Topics](./research-topics.md)
