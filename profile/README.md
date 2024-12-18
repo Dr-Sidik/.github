@@ -6,13 +6,7 @@ I am a researcher and an academic staff at Dept. of Electrical Engineering and I
 
 ## [Academic Profile](https://yohanfs.github.io)
 
-## [Courses Taught](./courses-taught.md)
-
-## [Academic Services](./academic-services.md)
-
-## [Students]([./former-students.md](https://github.com/Dr-Sidik/.github/blob/main/former-students.md))
-
-## [Available Research Topics](./research-topics.md)
+## [Click here for more details](https://github.com/Dr-Sidik/.github)
 
 
 
