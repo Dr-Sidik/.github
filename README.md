@@ -5,3 +5,5 @@
 ## [Students](./former-students.md)
 
 ## [Available Research Topics](./research-topics.md)
+
+## [Publications](https://github.com/sidik-publications)
