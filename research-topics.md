@@ -2,7 +2,7 @@
 
 ## 1. Previous Topics
 
-### Undergraduate
+### 1.1 Undergraduate
 
 | Student  |  Class  |  Title  | Publication  |   
 |---|---|---|---|
@@ -12,13 +12,11 @@
 | Krishna Laksheta | EE 2020 | Buck Converter Parameters Design Using Artificial Intelligence-Based Genetic Algorithm | |
 | Lathief Nurmahmudi Wijaya | EE 2020 | Kendali Tegangan Menggunakan Long-Short-Term Memory (LSTM) Untuk Konverter Dual-Active Bridge (DAB) | |
 
-### Master
-
-1.
+### 1.2 Master
 
 ## 2. Available Topics (Vacancies)
 
-### Undergraduate
+### 2.1 Undergraduate
 
 | Topic | Reference |
 | ---   |  ---     |
@@ -37,9 +35,11 @@
 | Magnetics modeling and material recommendation | [1](https://ieeexplore.ieee.org/abstract/document/10232911) |
 | FPGA based control of a single-phase dual active bridge converter | [1](https://ieeexplore.ieee.org/abstract/document/6020548), [2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7048698) |
 
-### Master
+### 2.2 Master
 
-1. Stability analysis of a dual-active bridge converter [Reference: [1](https://ieeexplore.ieee.org/abstract/document/9468398)]
+| Topic | Reference |
+| ---   |  ---     |
+| Stability analysis of a dual-active bridge converter | [1](https://ieeexplore.ieee.org/abstract/document/9468398) |
 
 ## 3. Contact
 
