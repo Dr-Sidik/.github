@@ -2,40 +2,46 @@ Below are my students:
 
 ## 1. Undergraduate
 
-### Former Students
+### 1.1 Former Students
 
-#### Main Supervision
+#### 1.1.1 Main Supervision
 
-1. Nadia Gustiranda Cahyeni (Graduated in 2023)
-2. Raihan Ramadhan (Graduated in 2023)
-3. Rifqi Maulana (Graduated in 2023)
-4. Krishna Laksheta (Graduated in 2024)
-5. Lathief Nurmahmudi Wijaya (Graduated in 2024)
+| No | Student  | Class  | Year of Graduation  |   
+|--- |---|---|---|
+| 1. | Nadia Gustiranda Cahyeni  | 2019 | 2023 | 
+| 2. | Raihan Ramadhan           | 2019 | 2023 |   
+| 3. | Rifqi Maulana             | 2019 | 2023 |  
+| 4. | Krishna Laksheta          | 2020 | 2024 |
+| 5. | Lathief Nurmahmudi Wijaya | 2020 | 2024 |
 
-#### Co-Supervision
+#### 1.1.2 Co-Supervision
 
-1. Tsamarah Tsabitah (Graduated in 2023)
-2. Michael Ananteo Handoko (Graduated in 2023)
-3. Faishal Hanif Muhadzdzib (Graduated in 2023)
-4. Hafizh Aradhana Harimurti (Graduated in 2024)
-5. Nazil Nasruddin As Shiddiqi (Graduated in 2024)
-6. Muhammad Bagus Hidayatullah (Graduated in 2024)
+| No | Student  | Class  | Year of Graduation  |   
+|--- |---|---|---|
+| 1. | Tsamarah Tsabitah              | 2019 | 2023 | 
+| 2. | Michael Ananteo Handoko        | 2019 | 2023 |   
+| 3. | Faishal Hanif Muhadzdzib       | 2019 | 2023 |  
+| 4. | Hafizh Aradhana Harimurti      | 2019 | 2024 |
+| 5. | Nazil Nasruddin As Shiddiqi    | 2020 | 2024 |
+| 6. | Muhammad Bagus Hidayatullah    | 2020 | 2024 |
 
-### Ongoing Students
+### 1.2 Ongoing Students
 
 1. Muhamad Haikal Widianto
 
 ## 2. Master
 
-### Former Students
+### 2.1 Former Students
 
-#### Main Supervision
+#### 2.1.1 Main Supervision
 
-#### Co-Supervision
+#### 2.1.2 Co-Supervision
 
-1. Dandy Cahyo Purnomo (Graduated in 2024)
+| No | Student  | Class  | Year of Graduation  |   
+|--- |---|---|---|
+| 1. | Dandy Cahyo Purnomo             | 2021 | 2024 | 
 
-### Ongoing Students
+### 2.2 Ongoing Students
 
 
    
