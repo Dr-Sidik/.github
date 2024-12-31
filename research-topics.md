@@ -49,3 +49,10 @@ If you are interested, feel free to ask. You can send me an email (yohanfajarsid
 
 You can use this link http://ugm.id/sidikresearchtopics to inform others.
 
+## 5. References
+
+- [Research topics offered by PGS RWTH Aachen](https://www.pgs.eonerc.rwth-aachen.de/cms/E-ON-ERC-PGS/Studium/~euyl/Studien-und-Abschlussarbeiten/lidx/1/)
+- [Research topics offered by ISEA RWTH Aachen](https://www.isea.rwth-aachen.de/cms/ISEA/Studium/~pcwk/Studien-und-Abschlussarbeiten/lidx/1/)
+- [Research topics offered by ETH Zurich](https://pes.ee.ethz.ch/education/semester-and-master-theses.html)
+- [Research topics offered by TU Munchen](https://www.epe.ed.tum.de/en/hlu/student-projects-1/open-topics/)
+  
