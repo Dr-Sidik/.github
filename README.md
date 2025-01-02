@@ -1,4 +1,4 @@
-## [Courses Taught](./courses-taught.md)
+## [Teaching](./courses-taught.md)
 
 ## [Academic Services](./academic-services.md)
 
