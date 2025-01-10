@@ -19,5 +19,8 @@
 | Numerical methods | x | |
 | Power electronics for transmission and distribution | | x |
 
+# Doctoral Degree Program
 
-
+| Subjects  |  2024/2025-1st term |
+|---|---|
+| Special topics in energy | x |   
