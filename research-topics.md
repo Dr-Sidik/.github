@@ -8,13 +8,17 @@
 
 | Student  |  Class  |  Title  | Publication  |   
 |---|---|---|---|
+| Krishna Laksheta | EE 2020 | Buck Converter Parameters Design Using Artificial Intelligence-Based Genetic Algorithm | [IEEE](https://ieeexplore.ieee.org/document/10808195) |
+| Lathief Nurmahmudi Wijaya | EE 2020 | Kendali Tegangan Menggunakan Long-Short-Term Memory (LSTM) Untuk Konverter Dual-Active Bridge (DAB) | |
 | Nadia Gustiranda Cahyeni   | EE 2019  |  Maximum torque per ampere (MTPA) control of a permanent magnet synchronous motor (PMSM) |   [IEEE](https://ieeexplore.ieee.org/abstract/document/10317697) |
 | Raihan Ramadhan | EE 2019 | Sensorless field oriented control (FOC) of a PMSM |  |
 | Rifqi Maulana | EE 2019 | Field-weakening control of permanent magnet synchronous motor (PMSM) | [IEEE](https://ieeexplore.ieee.org/abstract/document/10317741) |
-| Krishna Laksheta | EE 2020 | Buck Converter Parameters Design Using Artificial Intelligence-Based Genetic Algorithm | |
-| Lathief Nurmahmudi Wijaya | EE 2020 | Kendali Tegangan Menggunakan Long-Short-Term Memory (LSTM) Untuk Konverter Dual-Active Bridge (DAB) | |
 
 ### 1.2 Master
+
+| Student  |  Class  |  Title  | Publication  |   
+|---|---|---|---|
+| Dandy Cahyo Purnomo | MTE 2021 | Analisis Efisiensi Konverter DC-DC DAB 400 V ke 115 V Menggunakan GAN GS66508T Untuk Pengisian EV | [IEEE](https://ieeexplore.ieee.org/document/10512463) |
 
 ## 2. Available Topics (Vacancies)
 
