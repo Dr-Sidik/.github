@@ -1,5 +1,7 @@
 [Home](https://github.com/Dr-Sidik/.github/blob/main/README.md)
 
+[Go to the list of my students in Notion](https://catatansidik.notion.site/327eda0565d94ff0836b8fb022471120?v=ab27835b8954454588a309197cc2a2a1)
+
 Below are my students:
 
 ## 1. Undergraduate
