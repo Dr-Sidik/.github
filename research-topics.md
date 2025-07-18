@@ -1,5 +1,7 @@
 [Home](https://github.com/Dr-Sidik/.github/blob/main/README.md)
 
+[Go to the research topic list in Notion](https://catatansidik.notion.site/1ed74f3498a54852a6eeee2ff914b5bf?v=5912f14cbd1d403d81607938e51e8096)
+
 # Research Topics under My Supervision (Dr.-Ing. Yohan Fajar Sidik)
 
 ## 1. Previous Topics
